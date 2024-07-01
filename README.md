@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/yhetpstj3u9692vd?svg=true)](https://ci.appveyor.com/project/EvgeniiIshchenko/ajs-hw6-t2)
